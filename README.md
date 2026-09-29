@@ -71,10 +71,12 @@
     src="https://streak-stats.demolab.com/?user=atuldubey05&theme=dark&hide_border=false" 
     width="44%"
     height="200"
+    align="left"
   />
   <img 
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=atuldubey05&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
     width="44%"
-    height="178"
+    height="170"
+    align="right"
   />
 </p>
